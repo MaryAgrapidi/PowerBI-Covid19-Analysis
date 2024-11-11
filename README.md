@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is a capstone analysis of **COVID-19 data**, built using **Microsoft Power BI**. The goal of this project is to analyze and visualize the **spread, impact, and trends** of COVID-19 using publicly available datasets. Through interactive reports and dashboards, this project provides insights into various aspects of the pandemic, including:
+This project is a capstone analysis of **COVID-19 data**, built using **Microsoft Power BI**, undertaken as part of the **Data Analyst** program with a specialization in **Business Intelligence and Business Analytics** at the **National and Kapodistrian University of Athens**. The goal of this project is to analyze and visualize the **spread, impact, and trends** of COVID-19 using publicly available datasets. Through interactive reports and dashboards, this project provides insights into various aspects of the pandemic, including:
 
 - **Case Counts**: Tracking total and active cases over time.
 - **Mortality Rates**: Understanding the impact of COVID-19 on different regions and populations.
