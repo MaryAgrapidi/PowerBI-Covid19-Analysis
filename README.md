@@ -13,6 +13,9 @@ The data for this project is sourced from publicly available COVID-19 datasets. 
 
 - **[World Health Organization (WHO)](https://covid19.who.int/info/)**: Provides global COVID-19 case counts, mortality data, and vaccination statistics.
 - **[Worldometers](https://www.worldometers.info/world-population/population-by-country)**: Supplies population data by country, used for calculating per capita metrics.
+ 
+# Resources
+The data are licensed under a Creative Commons Attribution 4.0 International License. **(http://creativecommons.org/licenses/by/4.0/)**
 
 # Project Documentation
 
